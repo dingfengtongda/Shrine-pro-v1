@@ -24,7 +24,7 @@
     "colors_outline_button_labels": "#ffd2ceff",
     "colors_background_1": "#ffd2ceff",
     "gradient_background_1": "linear-gradient(180deg, rgba(234, 167, 161, 0.1), rgba(219, 232, 214, 0.1) 100%)",
-    "colors_background_2": "#efb89a",
+    "colors_background_2": "#dbe8d6",
     "gradient_background_2": "",
     "type_header_font": "sans_serif_n4",
     "heading_scale": 130,
