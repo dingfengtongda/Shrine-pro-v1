@@ -55,7 +55,7 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#eaa7a1",
+        "custom_colors_background": "#121212",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff"
       }
