@@ -41,7 +41,7 @@
           "type": "price",
           "settings": {
             "layout": "price_first",
-            "price_color": "accent-1",
+            "price_color": "accent-2",
             "compare_price_color": "text",
             "displayed_badge": "sale",
             "icon_scale": 140,
@@ -81,7 +81,7 @@
             "full_width_dropdowns": false,
             "breaks_style": "normal",
             "breaks_headline": "BUNDLE & SAVE",
-            "breaks_color_scheme": "accent-1",
+            "breaks_color_scheme": "accent-2",
             "breaks_badges": "[empty], Most popular, [empty]",
             "breaks_displayed_images": "variant_images",
             "breaks_custom_images": "",
@@ -196,7 +196,7 @@
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
-            "secondary_btn_custom_color": "#dd1d1d",
+            "secondary_btn_custom_color": "#f59c9c",
             "margin_top": 24,
             "margin_bottom": 24
           }
