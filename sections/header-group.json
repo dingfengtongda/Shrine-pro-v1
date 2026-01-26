@@ -33,17 +33,17 @@
       ],
       "settings": {
         "visibility": "always-display",
-        "speed": 4.5,
-        "direction": "normal",
+        "speed": 1.5,
+        "direction": "reverse",
         "stop_on_hover": false,
-        "mobile_spacing": 60,
+        "mobile_spacing": 69,
         "desktop_spacing": 100,
         "color_scheme": "custom",
-        "mobile_text_size": 16,
+        "mobile_text_size": 30,
         "desktop_text_size": 18,
         "italic_text": false,
         "uppercase_text": false,
-        "bold_text": false,
+        "bold_text": true,
         "mobile_image_height": 26,
         "desktop_image_height": 40,
         "mobile_reviews_width": 300,
@@ -55,9 +55,9 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#0d6acb",
+        "custom_colors_background": "#c4b6f2",
         "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff"
+        "custom_colors_text": "#fcf4a7"
       }
     },
     "header": {

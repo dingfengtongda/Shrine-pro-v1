@@ -15,21 +15,21 @@
     "country_list": "",
     "logo_width": 200,
     "mobile_logo_width": 130,
-    "colors_solid_button_labels": "#ffffff",
+    "colors_solid_button_labels": "#fdfdfd",
     "colors_accent_1": "#2e2a39",
-    "gradient_accent_1": "",
-    "colors_accent_2": "#0d6acb",
+    "gradient_accent_1": "linear-gradient(180deg, rgba(253, 228, 228, 1) 2%, rgba(255, 208, 220, 1) 100%)",
+    "colors_accent_2": "#2e2a39",
     "gradient_accent_2": "linear-gradient(54deg, rgba(109, 56, 139, 1) 14%, rgba(105, 14, 14, 1) 85%)",
     "colors_text": "#121212",
-    "colors_outline_button_labels": "#6d388b",
-    "colors_background_1": "#ffffff",
+    "colors_outline_button_labels": "#c4b6f2",
+    "colors_background_1": "#fcf8f2",
     "gradient_background_1": "",
-    "colors_background_2": "#f3f3f3",
-    "gradient_background_2": "",
-    "type_header_font": "poppins_n7",
+    "colors_background_2": "#e5ddf4",
+    "gradient_background_2": "linear-gradient(180deg, rgba(252, 248, 242, 1) 20%, rgba(252, 250, 242, 1) 30%, rgba(255, 207, 214, 0.76) 58%, rgba(255, 204, 220, 1) 97%)",
+    "type_header_font": "serif",
     "heading_scale": 130,
     "heading_letter_spacing": 0.6,
-    "type_body_font": "harmonia_sans_n4",
+    "type_body_font": "poppins_n4",
     "body_scale": 100,
     "enable_load_animations": true,
     "repeat_section_animations": false,
@@ -590,16 +590,6 @@
     "blocks": {
       "14060646107696862457": {
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      },
-      "12657775114333427046": {
-        "type": "shopify://apps/essential-countdown-timer/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-        "disabled": false,
-        "settings": {}
-      },
-      "7147999719060634790": {
-        "type": "shopify://apps/gsc-countdown-timer/blocks/countdown-bar/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
         "disabled": false,
         "settings": {}
       }
