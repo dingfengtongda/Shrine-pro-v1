@@ -25,7 +25,7 @@
     "colors_background_1": "#ffd2ceff",
     "gradient_background_1": "linear-gradient(360deg, rgba(219, 232, 214, 0.1), rgba(234, 167, 161, 0.15) 100%)",
     "colors_background_2": "#dbe8d6",
-    "gradient_background_2": "",
+    "gradient_background_2": "linear-gradient(180deg, rgba(252, 244, 243, 1) 32%, rgba(234, 167, 161, 1) 100%)",
     "type_header_font": "sans_serif_n4",
     "heading_scale": 130,
     "heading_letter_spacing": 0.6,
