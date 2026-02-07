@@ -491,18 +491,10 @@
             "text": "<h5><strong>🐾140°F Smart Dryer🐾</strong><br/> 🌟Heated air drying at 60℃/140°F activates via USB-C power, removing moisture within 60 minutes, ensures \"always-ready\"toothbrush holder - warm, dry bristles prevent regrowth between family bathroom uses.</h5>",
             "text_style": "body"
           }
-        },
-        "button_AQGgNH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "text_fEhUBE",
-        "button_AQGgNH"
+        "text_fEhUBE"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -528,14 +520,85 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
+      }
+    },
+    "image_slider_eYJzdg": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_CJdEjG": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/10.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_9f3RC6": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/9.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_CJdEjG",
+        "image_slide_9f3RC6"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Installation Notes",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "sides",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
       }
     },
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
@@ -931,6 +994,7 @@
     "image_with_text_UHHiUr",
     "image_with_text_hWtVKy",
     "image_with_text_pTT4np",
+    "image_slider_eYJzdg",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
     "collapsible_content_YiNgMx",
