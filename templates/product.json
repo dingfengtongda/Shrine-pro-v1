@@ -437,30 +437,22 @@
     "image_with_text_hWtVKy": {
       "type": "image-with-text",
       "blocks": {
-        "heading_GBA6bL": {
-          "type": "heading",
-          "settings": {
-            "title": "Dr. Amina Roberts, Physical Therapy Specialist",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
-          }
-        },
         "text_c9JLJx": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Prolonged sitting puts constant pressure on the lower back and tailbone, which can lead to pain and discomfort — especially as we age. A pressure-relieving gel cushion like<strong> ReliefSeat™ helps redistribute weight, improve sitting posture, and reduce daily strain</strong>\"</p>",
+            "text": "<h5><strong>🐾24H uv Light Cleaning Technology 🐾</strong><br/> 🌟Wall-mounted toothbrush cleaner automatically cycles every 2-4 hours (plugged/unplugged) with UV light-care technology, eliminating mold even between uses. </h5>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_GBA6bL",
         "text_c9JLJx"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/6.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
