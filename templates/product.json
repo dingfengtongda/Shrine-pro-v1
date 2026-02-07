@@ -623,10 +623,10 @@
         "collapsible_row_XR9efg": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Internal Maintenance",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Open the door monthly and use a dry cotton swab to remove trapped bristles and dust from the interior. This prevents clogging the drying vent, which could compromise the 60°C constant-temperature drying performance.</p>",
             "page": ""
           }
         }
