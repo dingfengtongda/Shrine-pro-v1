@@ -23,7 +23,7 @@
     "colors_text": "#121212",
     "colors_outline_button_labels": "#ffd2ceff",
     "colors_background_1": "#fdfdfd",
-    "gradient_background_1": "",
+    "gradient_background_1": "linear-gradient(180deg, rgba(228, 228, 228, 1), rgba(255, 255, 255, 1) 51%)",
     "colors_background_2": "#ece9e5",
     "gradient_background_2": "",
     "type_header_font": "sans_serif_n4",
