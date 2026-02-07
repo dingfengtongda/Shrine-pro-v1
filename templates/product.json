@@ -280,22 +280,6 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
-        },
-        "collapsible_tab_tggUkb": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & 90-Day Money-Back Guarantee",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "<p><strong>Fast & Secure Delivery</strong><br/><br/>All VEINAA orders are processed within <strong>24–48 hours</strong> and shipped with tracking.</p><ul><li><br/><strong>UK Standard Delivery:</strong> 2–4 business days</li></ul><h5> <strong>90-Day Money-Back Guarantee</strong></h5><p>We want you to feel confident trying VEINAA.</p><p>That’s why every order comes with a <strong>90-Day Satisfaction Guarantee</strong>.</p><p><strong>If you don’t see visible improvement in your edges, temples, or overall scalp health within 90 days, simply contact us and we’ll refund your order — no hassle, no questions asked.</strong></p><p>We stand behind the quality of our formula and the results it delivers.</p><p>Try VEINAA risk-free, with complete peace of mind.</p>",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
-          }
         }
       },
       "block_order": [
@@ -309,8 +293,7 @@
         "estimated_shipping_LApmxB",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
-        "reviews_8UgFbe",
-        "collapsible_tab_tggUkb"
+        "reviews_8UgFbe"
       ],
       "custom_css": [],
       "settings": {
@@ -594,6 +577,63 @@
         "custom_colors_text": "#121212"
       }
     },
+    "collapsible_content_YiNgMx": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_eUkiL6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Charged but won't turn on?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Try holding the power button for 3 seconds to boot up.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dV6Hny": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why doesn't the toothbrush holder work?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>You may try to press the power button for 3 seconds to open it again. Or you can charge it and then hold the power button for 3 seconds.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_eUkiL6",
+        "collapsible_row_dV6Hny"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "FAQ",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
       "type": "icons-with-content",
       "blocks": {
@@ -821,63 +861,6 @@
         "custom_cards_colors_text": "#2e2a39"
       }
     },
-    "collapsible_content_YiNgMx": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_eUkiL6": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Charged but won't turn on?",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "<p>Try holding the power button for 3 seconds to boot up.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_dV6Hny": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Why doesn't the toothbrush holder work?",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "<p>You may try to press the power button for 3 seconds to open it again. Or you can charge it and then hold the power button for 3 seconds.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_eUkiL6",
-        "collapsible_row_dV6Hny"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "caption": "",
-        "title": "FAQ",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "video_muted_autoplay": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "row_heading_size": "medium",
-        "collapse_icon": "carret",
-        "display_top_border": true,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_contaner_colors_background": "#ffffff",
-        "custom_container_gradient_background": "",
-        "custom_contaner_colors_text": "#2e2a39"
-      }
-    },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
       "type": "section-divider",
       "settings": {
@@ -922,9 +905,9 @@
     "image_with_text_hWtVKy",
     "image_with_text_pTT4np",
     "image_slider_eYJzdg",
+    "collapsible_content_YiNgMx",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
-    "collapsible_content_YiNgMx",
     "b321ab88-2b59-4dba-bade-54885c874ca5",
     "17654820405e632917"
   ]
