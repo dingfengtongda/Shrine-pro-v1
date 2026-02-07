@@ -54,19 +54,13 @@
             "margin_bottom": 15
           }
         },
-        "custom_liquid_qGJEcN": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg> Only 8 In stock !</p>"
-          }
-        },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
           "type": "variant_picker",
           "settings": {
             "picker_types": "pills, dropdown, dropdown",
             "custom_labels": "",
             "skip_unavailable": false,
-            "swatches_size": "medium",
+            "swatches_size": "small",
             "swatches_custom_colors": "disabled",
             "swatches_custom_colors_list": "#000000, #6D388B, #0000FF, #FFCC00",
             "full_width_dropdowns": false,
@@ -308,7 +302,6 @@
         "title",
         "trustpilot_stars_wqhDw3",
         "price",
-        "custom_liquid_qGJEcN",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
@@ -563,7 +556,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Installation Notes",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "type": "slide",
@@ -596,7 +589,7 @@
         "mobile_arrows_position": "sides",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
