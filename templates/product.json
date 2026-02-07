@@ -599,18 +599,51 @@
             "row_content": "<p>You may try to press the power button for 3 seconds to open it again. Or you can charge it and then hold the power button for 3 seconds.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_QfPjNM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Drying not working:",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>First check if the unit is plugged in (drying function is inactive when unplugged), then ensure the compartment door is fully closed (opening the door stops drying)<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_D4MbtB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Disinfection cycle does not activate automatically",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>When not charging, ensure the door is closed (open door prevents cycle activation). When charging, verify \"2-hour cycle\" mode is selected (if cycle does not start, unplug anc<br/>replug power cord to reset).</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XR9efg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_eUkiL6",
-        "collapsible_row_dV6Hny"
+        "collapsible_row_dV6Hny",
+        "collapsible_row_QfPjNM",
+        "collapsible_row_D4MbtB",
+        "collapsible_row_XR9efg"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
         "caption": "",
-        "title": "FAQ",
+        "title": "Troubleshooting Toothbrush Holder Malfunctions",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "heading_alignment": "center",
