@@ -100,7 +100,7 @@
             "display_selected_indicator": true,
             "border_radius": 10,
             "border_width": 2,
-            "color_scheme": "accent-2",
+            "color_scheme": "accent-1",
             "enable_variant_selectors": true,
             "enable_variant_selectors_on_quantity_of_1": true,
             "update_prices": true,
