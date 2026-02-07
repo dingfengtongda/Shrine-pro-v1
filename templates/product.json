@@ -820,7 +820,7 @@
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "subtitle": "Excellent [rating] <strong>/ 5</strong> [rating_stars]",
-        "subheading_rating_text": "<strong>4.8</strong>",
+        "subheading_rating_text": "<strong>5</strong>",
         "subheading_mobile_text_size": 18,
         "subheading_desktop_text_size": 20,
         "subheading_font": "body",
