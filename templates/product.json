@@ -413,6 +413,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/4.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
