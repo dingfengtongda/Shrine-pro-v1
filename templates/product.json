@@ -827,7 +827,7 @@
         "collapsible_row_eUkiL6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "✨Charged but won't turn on?",
+            "heading": "Charged but won't turn on?",
             "icon": "check_box",
             "filled_icon": false,
             "row_content": "<p>Try holding the power button for 3 seconds to boot up.</p>",
@@ -837,7 +837,7 @@
         "collapsible_row_dV6Hny": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Who is ReliefSeat™ for?",
+            "heading": "Why doesn't the toothbrush holder work?",
             "icon": "check_box",
             "filled_icon": false,
             "row_content": "<p>ReliefSeat™ is ideal for anyone who sits for long periods, including seniors, office workers, drivers, wheelchair users, and people experiencing back, hip, tailbone, or sciatica discomfort.</p>",
