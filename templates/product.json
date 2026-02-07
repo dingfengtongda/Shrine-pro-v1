@@ -440,7 +440,7 @@
         "text_c9JLJx": {
           "type": "text",
           "settings": {
-            "text": "<h5><strong>🐾24H uv Light Cleaning Technology 🐾</strong><br/> 🌟Wall-mounted toothbrush cleaner automatically cycles every 2-4 hours (plugged/unplugged) with UV light-care technology, eliminating mold even between uses. </h5>",
+            "text": "<h5><strong>🐾24H uv Light Cleaning Technology 🐾</strong><br/>🌟Wall-mounted toothbrush cleaner automatically cycles every 2-4 hours (plugged/unplugged) with UV light-care technology, eliminating mold even between uses. <br/>🌟Doubles as bathroom decor with minimalist LED display.</h5>",
             "text_style": "body"
           }
         }
@@ -479,6 +479,70 @@
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
         "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_pTT4np": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_AyMzhe": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_fEhUBE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_AQGgNH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_AyMzhe",
+        "text_fEhUBE",
+        "button_AQGgNH"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
         "custom_section_gradient_background": ""
       }
     },
@@ -874,6 +938,7 @@
     "related-products",
     "image_with_text_UHHiUr",
     "image_with_text_hWtVKy",
+    "image_with_text_pTT4np",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
     "collapsible_content_YiNgMx",
