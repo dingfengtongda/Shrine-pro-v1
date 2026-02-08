@@ -832,6 +832,18 @@
             "text": "<p>Love the idea of having a clean brush. Holds charge for long time and mounting makes it easier storing the brush itself.</p>",
             "author": "<a href=\"https://www.amazon.com/gp/profile/amzn1.account.AGDS675LKRU6I7BXAFRS422PI54A\">Hendo</a>"
           }
+        },
+        "column_Dttcty": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 4.5,
+            "title": "Easy to install",
+            "text": "<p>Got this for my mother and loved it so much we got one for our house as welll!You have NO idea how many germs and just plain \"yuck\" is on your toothbrushes until you have one of these! Awesome appeal and haven't had to change the batteries yet!</p>",
+            "author": "Kimberley Smith"
+          }
         }
       },
       "block_order": [
@@ -840,7 +852,8 @@
         "column_i9xbpY",
         "column_9EyzjV",
         "column_YLWH3K",
-        "column_MtngQW"
+        "column_MtngQW",
+        "column_Dttcty"
       ],
       "name": "Trustpilot reviews",
       "settings": {
