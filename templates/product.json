@@ -784,18 +784,6 @@
             "author": "<a href=\"https://www.amazon.com/gp/profile/amzn1.account.AGNSDRLDZ3DWN44DKZFHSXCXITCA\">Ayush</a>"
           }
         },
-        "column_i9xbpY": {
-          "type": "column",
-          "settings": {
-            "star_color": "#00b67a",
-            "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#ffffff",
-            "stars_rating": 5,
-            "title": "Easy to install",
-            "text": "<p>Got this for my mother and loved it so much we got one for our house as welll!You have NO idea how many germs and just plain \"yuck\" is on your toothbrushes until you have one of these! Awesome appeal and haven't had to change the batteries yet!</p>",
-            "author": "Kimberley Smith"
-          }
-        },
         "column_9EyzjV": {
           "type": "column",
           "settings": {
@@ -839,7 +827,7 @@
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
-            "stars_rating": 4.5,
+            "stars_rating": 5,
             "title": "Easy to install",
             "text": "<p>Got this for my mother and loved it so much we got one for our house as welll!You have NO idea how many germs and just plain \"yuck\" is on your toothbrushes until you have one of these! Awesome appeal and haven't had to change the batteries yet!</p>",
             "author": "Kimberley Smith"
@@ -849,7 +837,6 @@
       "block_order": [
         "column_N3nDQx",
         "column_f6ExMt",
-        "column_i9xbpY",
         "column_9EyzjV",
         "column_YLWH3K",
         "column_MtngQW",
