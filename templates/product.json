@@ -177,7 +177,7 @@
             "icon_spacing": 10,
             "display_price": false,
             "enable_custom_color": false,
-            "custom_color": "#53af01",
+            "custom_color": "#555555",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
